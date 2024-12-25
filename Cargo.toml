@@ -1,7 +1,10 @@
 [package]
 name = "this_executable_will_self_destruct"
+authors = ["n01e0 <reoshiseki@gmail.com>"]
 version = "0.1.0"
+description = "crate for \"This executable will self destruct\""
 edition = "2021"
 license = "MIT"
+readme = "README.md"
 
 [dependencies]
