@@ -2,5 +2,6 @@
 name = "this_executable_will_self_destruct"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
 
 [dependencies]
